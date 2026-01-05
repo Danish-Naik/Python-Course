@@ -82,3 +82,7 @@ y = int(x) + 1
 print(type(x))
 print(f"x: {x}, y: {y}")
 # Boolean Conversion will print the false value if the string is empty, null or having the value as 0.
+
+#Escape Characters
+print("Hello", sep ="..", end="\n")
+print("World")
